@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkDisk.exe 1 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 2000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkDisk.exe 64 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 2000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkDisk.exe 128 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 2000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkDisk.exe 192 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 2000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkDisk.exe 256 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 2000
+
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 1 52 1000000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 6 52 1000000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 12 52 1000000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 24 52 1000000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 36 52 1000000
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\benchmarkFactor.exe 48 52 1000000
+
+C:\Users\MSI\Desktop\OS\testsCpp\build\benchmark\multiThread.exe 1 C:\Users\MSI\Desktop\PremierePro\Adobe.Premiere.Pro.2024.u3.Multilingual.iso 1000000 52 10000000
